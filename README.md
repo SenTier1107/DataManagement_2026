@@ -9,7 +9,7 @@
 | 구분 | 주요 과제 | 상세 내용 |
 | :--- | :--- | :--- |
 | **3월 과제** 2026.03 | [`EDA-Project_Blood-Donation-Analysis_2026`](./EDA-Project_Blood-Donation-Analysis_2026/) | - Blood Transfusion Service Center (대만 신주시 헌혈 센터) RFMTC 데이터셋 EDA<br>- 데이터 프로파일링 및 기초탐색 (4가지 Import 방식 비교, 결측치·이상치 처리)<br>- 단변량 분석 (히스토그램 + KDE, 왜도/첨도, 파생변수 Binning)<br>- 다변량 분석 (상관계수 히트맵, Box/Violin Plot, 세그먼트별 비교)<br>- 핵심 인사이트 도출 및 4가지 가설 검증<br>- 비즈니스 제언 (헌혈자 유지 전략, JIT 공급망 관점) |
-| **4월 과제** 2026.04 | [`Text_Classification_CountVectorizer_2026`](./Text_Classification_CountVectorizer_2026/) | - sklearn 20 Newsgroups 데이터셋 활용 텍스트 분류<br>- CountVectorizer를 이용한 단어 빈도 기반 벡터화 (불용어 제거)<br>- 코사인 유사도(Cosine Similarity) 기반 카테고리 분류<br>- 고찰 Q1: OOV(Out-Of-Vocabulary) 문제 분석<br>- 고찰 Q2: 성능 개선 실험 (샘플 수 증가 / TF-IDF / bigram 비교)<br>- Gradio 웹 서비스 배포 |
+| **4월 과제** 2026.04 | [`NLP-Text_Classification_CountVectorizer_2026`](./NLP-Text_Classification_CountVectorizer_2026/) | - sklearn 20 Newsgroups 데이터셋 활용 텍스트 분류<br>- CountVectorizer를 이용한 단어 빈도 기반 벡터화 (불용어 제거)<br>- 코사인 유사도(Cosine Similarity) 기반 카테고리 분류<br>- 고찰 Q1: OOV(Out-Of-Vocabulary) 문제 분석<br>- 고찰 Q2: 성능 개선 실험 (샘플 수 증가 / TF-IDF / bigram 비교)<br>- Gradio 웹 서비스 배포 |
 
 ---
 
